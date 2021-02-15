@@ -1,4 +1,4 @@
-import server, brain
+import brain
 from tkinter import *
 
 window = Tk()
